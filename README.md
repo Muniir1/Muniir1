@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, js, react, tailwindcss, bootstrap**
 
-- 📫 How to reach me **muniirm81@gmial.com**
+- 📫 How to reach me **muniirm81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
