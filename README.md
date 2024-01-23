@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muniir1](https://github.com/Muniir1)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, js, react, tailwindcss, bootstrap**
 
 - 📫 How to reach me **muniirm81@gmial.com**
 
